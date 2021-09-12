@@ -39,3 +39,13 @@ a{
     color: yellow;
     background-color: black;
 }
+#sitelink{
+    background-color:seagreen;
+    text-align: center;
+    color: wheat;
+}
+#sitelink:hover{
+    background-color: rgb(0, 48, 0);
+    text-align: center;
+    color: wheat;
+}
