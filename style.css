@@ -1,5 +1,6 @@
 .header{
     text-align: center;
+    font-size: 30px;
 }
 .section1{
     background-color: lightblue;
@@ -62,5 +63,5 @@ a:hover{
 #ranking{
     width: 80%;
     text-align: center;
-    
+    border: 1px solid seagreen;
 }
