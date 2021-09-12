@@ -53,3 +53,9 @@ a:hover{
     text-align: center;
     color: wheat;
 }
+.picture{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
