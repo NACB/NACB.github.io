@@ -20,7 +20,7 @@
     color: wheat;
 }
 .sitelink:hover{
-    background-color: green;
+    background-color: rgb(0, 56, 0);
     text-align: center;
     color: wheat;
 }
@@ -36,8 +36,12 @@
     }
 }
 a{
-    color: yellow;
-    background-color: black;
+    color: wheat;
+    background-color: seagreen;
+}
+a:hover{
+    background-color: rgb(0, 56, 0);
+    color: wheat;
 }
 #sitelink{
     background-color:seagreen;
