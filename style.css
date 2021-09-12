@@ -1,3 +1,41 @@
 .header{
     text-align: center;
 }
+.section1{
+    background-color: lightblue;
+    text-align: center;
+}
+.section2{
+    background-color: mediumaquamarine;
+    text-align: center;
+}
+.section3{
+    background-color: seagreen;
+    text-align: center;
+    color: wheat;
+}
+.sitelink{
+    background-color:seagreen;
+    text-align: center;
+    color: wheat;
+}
+.sitelink:hover{
+    background-color: green;
+    text-align: center;
+    color: wheat;
+}
+#keyword{
+    color: darkred;
+}
+.keyword{
+    color:darkred;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+}
+a{
+    color: yellow;
+    background-color: black;
+}
